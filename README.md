@@ -10,5 +10,5 @@ made using flutter with love LMAO
 - run command 'flutter run --release' on terminal
 - try 
 
-##demo
+## Demo
 see on facebook : https://www.facebook.com/100015628334071/videos/1028806357650299/
